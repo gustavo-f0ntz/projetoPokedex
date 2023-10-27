@@ -87,7 +87,40 @@ Versão 1.0 (Data): Descrição da versão, alterações, correções de bugs e 
 
 ## Capturas de Tela
 
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/dd43657d-c93b-4fd2-ada4-7e5d300dc186)
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/deb9eef9-f24b-4e2d-8abe-43190c538677)
+
+**Usuário Criado, agora vamos listar os usuários**
+
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/99468b86-b7c2-4b93-ae4d-9a2a8067b16b)
+
+**Editando Usuário Cadastrado**
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/bda37c7f-3698-4635-82ee-0712a216d535)
+
+**Agora vamos para a Pokedex**
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/c1146d97-ae65-4a4e-92f6-923d64f5c614)
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/47785474-400a-439a-b310-24b44dfed7fe)
+
+**A Pokedex contem essas funcionalidades**
+
+- Na aba listar ela já possui 6 Pokemons pré-definidos. Vamos conferir:
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/ee74292d-88f1-4b00-b408-982858eb583e)
+
+**Vamos agora sortear um Pokemon**
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/598af5ea-68c9-42cc-b109-fed437b7ae2b)
+
+
+
 ## Tela de Login
+
+![image](https://github.com/gustavo-f0ntz/projetoPokedex/assets/72459288/8c273142-8e12-426d-a429-b5cc57f19587)
 
 ## Agradecimentos
 Gostaria de agradecer aos Professores Doutores Reudismam Rolim e Daniela Lopes Freire pelo apoio e orientação durante o desenvolvimento deste projeto.
