@@ -90,7 +90,7 @@ Versão 1.0 (Data): Descrição da versão, alterações, correções de bugs e 
 ## Tela de Login
 
 ## Agradecimentos
-Gostaria de agradecer aos Professores Doutores Reudismam Rolim e Daniela Lopes Freire por sua orientação durante o desenvolvimento deste projeto.
+Gostaria de agradecer aos Professores Doutores Reudismam Rolim e Daniela Lopes Freire pelo apoio e orientação durante o desenvolvimento deste projeto.
 
 
 
